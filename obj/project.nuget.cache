@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "61wRJR1tsulFbcW0ixXYITkN6WZET/AXSFecgFQ2e83xGg2CfAtDTSgoMw8+SCUPP49s8cwat4nxMSuZ0kAoPA==",
+  "dgSpecHash": "6ec3DLItuZoNUkKqSKBRyf7ZEepXCYy3hE+PmfUcjPQCsgASiTDbUs88cjrmoWVMJ35I9Xb7AxrDKHuJpStRoA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yared\\Documents\\education\\new\\Fix_it_Backeckend-.Net-Web-Api-\\fixit.csproj",
+  "projectFilePath": "C:\\Users\\yared\\Documents\\education\\cloudbloq\\.net\\FixIt-Back-end-TiDB\\fixit.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yared\\.nuget\\packages\\automapper\\10.1.0\\automapper.10.1.0.nupkg.sha512",
     "C:\\Users\\yared\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
@@ -177,7 +177,8 @@
     "C:\\Users\\yared\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\yared\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
     "C:\\Users\\yared\\.nuget\\packages\\system.xml.xpath\\4.0.1\\system.xml.xpath.4.0.1.nupkg.sha512",
-    "C:\\Users\\yared\\.nuget\\packages\\system.xml.xpath.xmldocument\\4.0.1\\system.xml.xpath.xmldocument.4.0.1.nupkg.sha512"
+    "C:\\Users\\yared\\.nuget\\packages\\system.xml.xpath.xmldocument\\4.0.1\\system.xml.xpath.xmldocument.4.0.1.nupkg.sha512",
+    "C:\\Users\\yared\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
   ],
   "logs": [
     {

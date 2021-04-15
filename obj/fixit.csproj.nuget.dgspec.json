@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yared\\Documents\\education\\new\\Fix_it_Backeckend-.Net-Web-Api-\\fixit.csproj": {}
+    "C:\\Users\\yared\\Documents\\education\\cloudbloq\\.net\\FixIt-Back-end-TiDB\\fixit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yared\\Documents\\education\\new\\Fix_it_Backeckend-.Net-Web-Api-\\fixit.csproj": {
+    "C:\\Users\\yared\\Documents\\education\\cloudbloq\\.net\\FixIt-Back-end-TiDB\\fixit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yared\\Documents\\education\\new\\Fix_it_Backeckend-.Net-Web-Api-\\fixit.csproj",
+        "projectUniqueName": "C:\\Users\\yared\\Documents\\education\\cloudbloq\\.net\\FixIt-Back-end-TiDB\\fixit.csproj",
         "projectName": "fixit",
-        "projectPath": "C:\\Users\\yared\\Documents\\education\\new\\Fix_it_Backeckend-.Net-Web-Api-\\fixit.csproj",
+        "projectPath": "C:\\Users\\yared\\Documents\\education\\cloudbloq\\.net\\FixIt-Back-end-TiDB\\fixit.csproj",
         "packagesPath": "C:\\Users\\yared\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yared\\Documents\\education\\new\\Fix_it_Backeckend-.Net-Web-Api-\\obj\\",
+        "outputPath": "C:\\Users\\yared\\Documents\\education\\cloudbloq\\.net\\FixIt-Back-end-TiDB\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yared\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -93,6 +93,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.13, 3.1.13]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"

@@ -15,7 +15,8 @@ namespace fixit.Profiles
             .ForMember(dest => dest.Category, opt => opt.MapFrom(src => src.Category))
             .ForMember(dest => dest.InitialPrice, opt => opt.MapFrom(src => src.InitialPrice))
             .ForMember(dest => dest.IntermediatePrice, opt => opt.MapFrom(src => src.IntermediatePrice))
-            .ForMember(dest => dest.AdvancedPrice, opt => opt.MapFrom(src => src.AdvancedPrice));
+            .ForMember(dest => dest.AdvancedPrice, opt => opt.MapFrom(src => src.AdvancedPrice))
+            .ForMember(dest => dest.AddedTime, opt => opt.MapFrom(src => src.AddedTime));
            CreateMap<ServiceDto, fixit.Models.Service>();
 
     

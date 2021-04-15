@@ -6,13 +6,13 @@ using fixit.Data;
 using fixit.DTO;
 using Microsoft.AspNetCore.Mvc;
 using fixit.Models;
-using fixit.Entities;
+
 using Microsoft.AspNetCore.Authorization;
 
 namespace Controllers
 {
 
-    [Authorize]
+    
     [ApiController]
     [Route("api/services")]
     public class ServiceController : ControllerBase

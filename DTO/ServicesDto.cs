@@ -1,5 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using System;
 
 namespace fixit.DTO
 {
@@ -20,6 +21,9 @@ namespace fixit.DTO
         public int IntermediatePrice { get; set; }
         [Required]
         public int AdvancedPrice { get; set; }
+        [Required]
+        public DateTime AddedTime { get; set; }
+
 
 
 
